@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tiket Evana</string>
+    <string name="slogan">Wisata Jadi Lebih Menyenangkan</string>
+    <string name="signin">SIGN IN</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email Address</string>
+    <string name="next">Continue</string>
+    <string name="nama">Nama</string>
+    <string name="bio">Bio</string>
+    <string name="explore">Explore Now</string>
+    <string name="dashboard">My Dashboard</string>
+    <string name="buy">Buy Ticket</string>
+    <string name="pisa">Menara Pisa</string>
+    <string name="checkout">Checkout</string>
+    <string name="pay">Pay Now</string>
+    <string name="view_ticket">View Ticket</string>
+    <string name="name_label">Name</string>
+</resources>
